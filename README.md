@@ -10,13 +10,13 @@ This repository contains a simple PHP project for managing your tasks through a 
    
 2. Clone the Repository:
 
-git clone https://github.com/Daniel-Alvarenga/Web-Tasks.git
-
-sql
+   ```bash
+   git clone https://github.com/Daniel-Alvarenga/Web-Tasks.git
+   ```
 
 
 3. Import Database:
-- Execute the SQL script from the `database` folder in your MySQL database to create the necessary tables.
+- Execute the SQL script from the `database` folder in your MySQL database to create the necessary tables.  
 
 4. Access the Web Application:
 - Start your local server.
